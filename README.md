@@ -23,7 +23,7 @@ It wasn't an exact science.
 Some comments were skipped (namely some Wonderwall or Freebird comments that were obviously jokes).
 
 # Beginner to Intermediate
-* 23: [Wonderwall - Oasis](https://www.songsterr.com/a/wa/search?pattern=Wonderwall%20%20Oasis%0A) [x]
+* 23: [Wonderwall - Oasis](https://www.songsterr.com/a/wa/search?pattern=Wonderwall%20%20Oasis%0A) -[x]
 * 19: [Knocking On Heaven's Door - Bob Dylan](https://www.songsterr.com/a/wa/search?pattern=Knocking%20On%20Heaven%27s%20Door%20%20Bob%20Dylan%0A)
 * 14: [Smoke On The Water - Deep Purple](https://www.songsterr.com/a/wa/search?pattern=Smoke%20On%20The%20Water%20%20Deep%20Purple%0A)
 * 13: [House Of The Rising Sun - The Animals](https://www.songsterr.com/a/wa/search?pattern=House%20Of%20The%20Rising%20Sun%20%20The%20Animals%0A)
