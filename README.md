@@ -22,6 +22,16 @@ Sub-comments were not included. Usually only comments with more than one upvote 
 It wasn't an exact science.
 Some comments were skipped (namely some Wonderwall or Freebird comments that were obviously jokes).
 
+# Have Learnt
+1. Hobbit
+2. Justin
+3. 24KGold
+4. 
+
+# Learning
+1. Sultans Of Swing - Dire Straits
+
+
 # Beginner to Intermediate
 * 23: [Wonderwall - Oasis](https://www.songsterr.com/a/wa/search?pattern=Wonderwall%20%20Oasis%0A) -[x]
 * 19: [Knocking On Heaven's Door - Bob Dylan](https://www.songsterr.com/a/wa/search?pattern=Knocking%20On%20Heaven%27s%20Door%20%20Bob%20Dylan%0A)
